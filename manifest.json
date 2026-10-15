@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Trời hôm nay",
+  "short_name": "Thời tiết",
+  "description": "Thời tiết theo vị trí của bạn: dự báo theo giờ, 7 ngày, chất lượng không khí, nền động theo thời tiết thực tế.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E58B4",
+  "theme_color": "#0E58B4",
+  "categories": ["weather", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
